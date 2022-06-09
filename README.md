@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mbaier1
-- 👀 I’m interested in Full-Stack Development and becoming an expert JavaScript programmer!
+- 👀 I’m interested in Full-Stack Development and becoming an expert programmer!
 - 🌱 I’m currently learning Full-Stack Web Development
 - 💞️ I’m looking to collaborate on brillaint website ideas
 - 📫 How to reach me: Youcan reach me at mbfullstackengineer@gmail.com
